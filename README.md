@@ -58,7 +58,7 @@ The Power BI dashboard provides key insights and metrics to help [target users â
 ---
 
 ## ðŸ“· Dashboard Preview
-![Dashboard Preview]("sales.png")
+![Dashboard Preview]("Dashboard_Preview.png")
 
 ---
 
