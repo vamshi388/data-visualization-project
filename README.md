@@ -1,8 +1,8 @@
 # 📊 [Project Title] Power BI Dashboard
 
 ## 🧠 Project Overview
-This project focuses on analyzing and visualizing [business domain or dataset —  sales performance, employee productivity, financial data, customer retention].  
-The Power BI dashboard provides key insights and metrics to help [target users —  management, sales teams, analysts] make data-driven decisions.
+This project focuses on analyzing and visualizing business domain or dataset —  sales performance, employee productivity, financial data, customer retention].  
+The Power BI dashboard provides key insights and metrics to help[target users —  management, sales teams, analysts make data-driven decisions.
 
 ---
 
