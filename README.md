@@ -58,7 +58,7 @@ The Power BI dashboard provides key insights and metrics to help [target users �
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview]("C:\Users\jerub\Downloads\sales.png")
+![Dashboard Preview]("sales.png")
 
 ---
 
@@ -70,11 +70,11 @@ The Power BI dashboard provides key insights and metrics to help [target users �
 ---
 
 ## 👨‍💻 Author
-**Name:** [Your Name]  
+**Name:** [Vamshi]  
 **Role:** Data Analyst / Data Science Enthusiast  
-**Email:** [Your email]  
-**LinkedIn:** [LinkedIn profile link]  
-**GitHub:** [GitHub username]
+**Email:** [jerubandivamshikrishna23@gmail.com]  
+**LinkedIn:** [https://www.linkedin.com/in/vamshi-krishna-5bb707390]  
+**GitHub:** [vamshi338]
 
 
 
