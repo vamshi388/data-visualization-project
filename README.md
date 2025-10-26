@@ -58,7 +58,7 @@ The Power BI dashboard provides key insights and metrics to help [target users â
 ---
 
 ## ðŸ“· Dashboard Preview
-![Dashboard Preview] ("https://github.com/vamshi388/data-visualization-project/blob/main/Dashboard_Preview.png")
+![Dashboard Preview] (<"https://github.com/vamshi388/data-visualization-project/blob/main/Dashboard_Preview.png">)
 
 ---
 
